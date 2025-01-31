@@ -10,7 +10,7 @@
 
 
 
-## Programming Language & Framework 🛠 
+## Programming Language, Framework, & Style Sheet language 🛠 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffff)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=%23ffff)
 ![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=%23ffff)
