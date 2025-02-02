@@ -53,12 +53,12 @@
 
 ## FAQ
 
-#### 1.) Currently learning programming language?
+### 1.) Currently learning?
 PHP, CSS, BOOTSTRAP, MYSQL, AND JS
 
-#### 2.) Challenges?
+### 2.) Challenges?
 It's always the Time :<
 
-#### 3.) Commision?
+### 3.) Commision?
 Not in Web dev, I do Computer Service locally, you can also visit to my <a href='https://www.facebook.com/MasterJam001'>MASTER JAM</a> (I need money hehe).
 
