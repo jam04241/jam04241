@@ -1,4 +1,4 @@
-<div align="center">
+
 # Hi, I'm Jam! 👋
 2nd year BSIT college student in University of Mindanao - Matina Campus
 
@@ -10,19 +10,29 @@
 
 
 
-## Programming Language, Framework, & Style Sheet language 🛠 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffff)
+## Programming Language, 
+<!-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffff)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=%23ffff)
 ![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=%23ffff)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=flat&logo=bootstrap&logoColor=%23ffff)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=%23000)
 ![PYTHON](https://img.shields.io/badge/PYTHON-%2388CE02?style=flat&logo=python&logoColor=%23FFFF)
-![MYSQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MYSQL&logoColor=%23FFFF)
+![MYSQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MYSQL&logoColor=%23FFFF) -->
+[![My Skills](https://skillicons.dev/icons?i=php,js,py,java&perline=3)](https://skillicons.dev)
 
 
+## Framework 🧩
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&perline=3)](https://skillicons.dev)
 
 
+## Style Sheet language 🛠 
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev)
 
+## RDBMS 🛢
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
+
+## IDE 🖥️
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,idea,obsidian,pycharm,qt,vscode&perline=3)](https://skillicons.dev)
 
 
 
@@ -51,4 +61,4 @@ It's always the Time :<
 
 #### 3.) Commision?
 Not in Web dev, I do Computer Service locally, you can also visit to my <a href='https://www.facebook.com/MasterJam001'>MASTER JAM</a> (I need money hehe).
-</div>
+
