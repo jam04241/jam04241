@@ -1,4 +1,4 @@
-
+<div align="center">
 # Hi, I'm Jam! 👋
 2nd year BSIT college student in University of Mindanao - Matina Campus
 
@@ -51,4 +51,4 @@ It's always the Time :<
 
 #### 3.) Commision?
 Not in Web dev, I do Computer Service locally, you can also visit to my <a href='https://www.facebook.com/MasterJam001'>MASTER JAM</a> (I need money hehe).
-
+</div>
