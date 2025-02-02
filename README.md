@@ -1,6 +1,6 @@
 
 # Hi, I'm Jam! 👋
-2nd year BSIT college student in University of Mindanao - Matina Campus
+2nd year BSIT college student at the University of Mindanao - Matina Campus
 
 
 ##  Skills 💪
