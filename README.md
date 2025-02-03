@@ -10,7 +10,7 @@
 
 
 
-## Programming Language </> 
+## Uses for Web dev </> 
 <!-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffff)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=%23ffff)
 ![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=%23ffff)
@@ -18,22 +18,7 @@
 ![JS](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=%23000)
 ![PYTHON](https://img.shields.io/badge/PYTHON-%2388CE02?style=flat&logo=python&logoColor=%23FFFF)
 ![MYSQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MYSQL&logoColor=%23FFFF) -->
-[![My Skills](https://skillicons.dev/icons?i=php,js,py,java&perline=3)](https://skillicons.dev)
-
-
-## Framework 🧩
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&perline=3)](https://skillicons.dev)
-
-
-## Style Sheet language 🛠 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev)
-
-## RDBMS 🛢
-[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
-
-## IDE 🖥️
-[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,idea,obsidian,pycharm,qt,vscode&perline=3)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=php,js,py,java,bootstrap,laravel,html,css,mysql,eclipse,figma,idea,obsidian,pycharm,qt,vscode&perline=3)](https://skillicons.dev)
 
 
 ## 🔗 Links
