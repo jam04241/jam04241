@@ -45,5 +45,5 @@ PHP, CSS, BOOTSTRAP, MYSQL, AND JS
 It's always the Time :<
 
 ### 3.) Commision?
-Not in Web dev, I do Computer Service locally, you can also visit to my <a href='https://www.facebook.com/MasterJam001'>MASTER JAM</a> (I need money hehe).
+Not in Web dev, I do Computer Service locally, you can also visit <a href='https://www.facebook.com/MasterJam001'>MASTER JAM</a> (I need money hehe).
 
