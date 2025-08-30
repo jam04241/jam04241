@@ -39,11 +39,6 @@
 ## FAQ
 
 ### 1.) Currently learning?
-PHP, CSS, BOOTSTRAP, MYSQL, AND JS
+PHP, CSS, BOOTSTRAP, MYSQL, JS, FLUTTER, C#
 
-### 2.) Challenges?
-It's always the Time :<
-
-### 3.) Commision?
-Not in Web dev, I do Computer Service locally, you can also visit <a href='https://www.facebook.com/MasterJam001'>MASTER JAM</a> (I need money hehe).
 
