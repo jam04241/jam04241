@@ -5,6 +5,7 @@
 
 ##  Skills 💪
 - Learning to be Full-Stack Developer(lmao).
+- Learning Networking Engineer roadmap.
 - Rig Enthusiast in PC.
 - Anything that I'm interest in a particular skill.
 
