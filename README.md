@@ -32,7 +32,7 @@
 
 [![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
 
-[![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
+\n[![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
 
 ## Github
 ![Jam04241's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
@@ -43,6 +43,6 @@
 ## FAQ
 
 ### 1.) Currently learning?
-PHP, CSS, BOOTSTRAP, MYSQL, JS, FLUTTER, C#
+LARAVEL & SERN(Supabase, Express.js, React.js, Node.js)
 
 
