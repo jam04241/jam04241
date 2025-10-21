@@ -32,7 +32,7 @@
 ![Flutter](https://skillicons.dev/icons?i=flutter,dart,bootstrap,tailwind,nextjs)
 
 ### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb)
+![Backend](https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb,cloudinary)
 
 ### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=py,js,java,cs)
