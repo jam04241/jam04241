@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend & Mobile
-![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,bootstrap,tailwind,nextjs)
+![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,bootstrap,tailwind,nextjs,svg)
 
 ### Backend & Databases
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb,cloudinary)
