@@ -1,45 +1,77 @@
+# 👋 Hi, I'm Jam!
 
-# Hi, I'm Jam! 👋
-3rd year BSIT college student at the University of Mindanao - Matina Campus
+**3rd Year BSIT Student** at University of Mindanao - Matina Campus  
+*Aspiring Full-Stack Developer & Networking Engineer*
 
-![Jam04241's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
+---
 
-![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+## 📊 GitHub Analytics
 
-![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
 
-##  Skills 💪
-- Learning to be Full-Stack Developer(lmao).
-- Learning Networking Engineer roadmap.
-- Rig Enthusiast in PC.
-- Anything that I'm interest in a particular skill.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+</div>
 
+---
 
-## Stack Tech </> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,py,js,java,cs,arduino,bootstrap,tailwind,nextjs,nodejs,npm,mysql,firebase,supabase,mongodb&perline=8" />
-  </a>
-</p>
+## 🚀 About Me
 
-## IDE 💻🛠️
+- 🎯 **Currently Focused On**: Full-Stack Development & Networking Engineering
+- 💻 **PC Building Enthusiast** - Love building and optimizing rigs
+- 🌱 **Continuous Learner** - Always exploring new technologies and skills
+- 🎮 **Tech Hobbyist** - Passionate about all things tech-related
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,visualstudio,vscode,idea,obsidian,pycharm,qt&perline=8)](https://skillicons.dev)
+---
 
+## 🛠️ Tech Stack
 
-## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jam04241.github.io/)
-[![facebook](https://img.shields.io/badge/FACEBOOK-%230866FF?style=for-the-badge&logo=FACEBOOK&logoColor=%23FFFF)](https://www.facebook.com/100010340794471)
-[![MasterJam001](https://img.shields.io/badge/MASTER_JAM-%23071D49?style=for-the-badge&logo=pcgamingwiki&logoColor=%23FFFF)
-](https://www.facebook.com/MasterJam001)
-[![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
-[![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
+### Frontend & Mobile
+![Flutter](https://skillicons.dev/icons?i=flutter,dart,bootstrap,tailwind,nextjs)
 
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb)
 
-## FAQ
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=py,js,java,cs)
 
-### 1.) Currently learning?
-LARAVEL & SERN(Supabase, Express.js, React.js, Node.js)
+### Hardware & Tools
+![Hardware](https://skillicons.dev/icons?i=arduino)
 
+---
 
+## 💻 Development Tools
+
+![IDE](https://skillicons.dev/icons?i=eclipse,figma,visualstudio,vscode,idea,obsidian,pycharm,qt)
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jam04241.github.io/)
+[![Facebook Personal](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/100010340794471)
+[![Facebook Page](https://img.shields.io/badge/Page-071D49?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MasterJam001)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tidyman.04)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- **LARAVEL** - PHP Framework
+- **SERN Stack** - Supabase, Express.js, React.js, Node.js
+- **Networking Engineering** - Building foundational knowledge
+
+---
+
+<div align="center">
+
+### ⚡ *"Learning to be Full-Stack Developer(lmao)"* ⚡
+
+</div>
