@@ -19,7 +19,7 @@
 ## Stack Tech </> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=flutter,dart,laravel,php,py,js,java,cs,arduino,bootstrap,tailwind,nextjs,nodejs,npm,mysql,firebase,supabase,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,py,js,java,cs,arduino,bootstrap,tailwind,nextjs,nodejs,npm,mysql,firebase,supabase,mongodb&perline=8" />
   </a>
 </p>
 
