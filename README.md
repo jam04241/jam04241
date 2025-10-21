@@ -29,13 +29,13 @@
 ## 🛠️ Tech Stack
 
 ### Frontend & Mobile
-![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,bootstrap,tailwind,nextjs,react)
+![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter,bootstrap,tailwind,nextjs,react)
 
 ### Backend & Databases
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb,cloudinary)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=laravel,breeze,php,nodejs,mysql,firebase,supabase,mongodb,cloudinary)
 
 ### Programming Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,java,cs)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,java,cs,dart)
 
 ### Hardware & Tools
 ![Hardware](https://go-skill-icons.vercel.app/api/icons?i=arduino)
