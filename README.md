@@ -35,10 +35,13 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
 
 ## Github
+
 ![Jam04241's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
 
-\n![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-\n![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## FAQ
