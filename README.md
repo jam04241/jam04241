@@ -2,6 +2,11 @@
 # Hi, I'm Jam! 👋
 3rd year BSIT college student at the University of Mindanao - Matina Campus
 
+![Jam04241's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
+
+![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ##  Skills 💪
 - Learning to be Full-Stack Developer(lmao).
@@ -33,15 +38,6 @@
 [![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
 
 [![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
-
-## Github
-
-![Jam04241's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
-
-![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 
 
 ## FAQ
