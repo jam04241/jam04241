@@ -29,22 +29,22 @@
 ## 🛠️ Tech Stack
 
 ### Frontend & Mobile
-![Flutter](https://skillicons.dev/icons?i=flutter,dart,bootstrap,tailwind,nextjs)
+![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,bootstrap,tailwind,nextjs)
 
 ### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb,cloudinary)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=laravel,php,nodejs,mysql,firebase,supabase,mongodb,cloudinary)
 
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=py,js,java,cs)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,java,cs)
 
 ### Hardware & Tools
-![Hardware](https://skillicons.dev/icons?i=arduino)
+![Hardware](https://go-skill-icons.vercel.app/api/icons?i=arduino)
 
 ---
 
 ## 💻 Development Tools
 
-![IDE](https://skillicons.dev/icons?i=eclipse,figma,visualstudio,vscode,idea,obsidian,pycharm,qt)
+![IDE](https://go-skill-icons.vercel.app/api/icons?i=eclipse,figma,visualstudio,vscode,idea,obsidian,pycharm,qt)
 
 ---
 
