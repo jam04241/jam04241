@@ -30,14 +30,15 @@
 [![MasterJam001](https://img.shields.io/badge/MASTER_JAM-%23071D49?style=for-the-badge&logo=pcgamingwiki&logoColor=%23FFFF)
 ](https://www.facebook.com/MasterJam001)
 
-\n[![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
+[![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
 
-\n[![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
+[![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
 
 ## Github
 ![Jam04241's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jam04241&theme=tokyonight&hide_border=true)
-![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+\n![Jam04241's Stats](https://github-readme-stats.vercel.app/api?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+\n![Jam04241's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam04241&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ## FAQ
