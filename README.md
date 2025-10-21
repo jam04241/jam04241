@@ -30,7 +30,7 @@
 [![MasterJam001](https://img.shields.io/badge/MASTER_JAM-%23071D49?style=for-the-badge&logo=pcgamingwiki&logoColor=%23FFFF)
 ](https://www.facebook.com/MasterJam001)
 
-[![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
+\n[![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
 
 \n[![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
 
