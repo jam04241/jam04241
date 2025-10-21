@@ -16,27 +16,24 @@
 
 
 
-## Tools 💻🛠️</> 
-<!-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffff)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=%23ffff)
-![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=%23ffff)
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=flat&logo=bootstrap&logoColor=%23ffff)
-![JS](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=%23000)
-![PYTHON](https://img.shields.io/badge/PYTHON-%2388CE02?style=flat&logo=python&logoColor=%23FFFF)
-![MYSQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MYSQL&logoColor=%23FFFF) -->
-[![My Skills](https://skillicons.dev/icons?i=php,js,py,java,bootstrap,laravel,html,css,mysql,eclipse,figma,idea,obsidian,pycharm,qt,vscode&perline=3)](https://skillicons.dev)
+## Stack Tech </> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=flutter,dart,laravel,php,py,js,java,cs,arduino,bootstrap,tailwind,nextjs,nodejs,npm,mysql,firebase,supabase,mongodb&perline=8)" />
+  </a>
+</p>
+
+## IDE 💻🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,visualstudio,vscode,idea,obsidian,pycharm,qt&perline=8)](https://skillicons.dev)
 
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jam04241.github.io/)
-
 [![facebook](https://img.shields.io/badge/FACEBOOK-%230866FF?style=for-the-badge&logo=FACEBOOK&logoColor=%23FFFF)](https://www.facebook.com/100010340794471)
-
 [![MasterJam001](https://img.shields.io/badge/MASTER_JAM-%23071D49?style=for-the-badge&logo=pcgamingwiki&logoColor=%23FFFF)
 ](https://www.facebook.com/MasterJam001)
-
 [![youtube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrUWWdzZanBcRTGaPkwsEeg)
-
 [![instagram](https://img.shields.io/badge/INSTAGRAM-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/tidyman.04)
 
 
